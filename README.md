@@ -14,4 +14,7 @@ In this project, we can control the home appliances over the internet using voic
 ## Circuit Diagram:-
 
 
-## Functioning
+## Functioning:-
+
+
+## Video Link:-
