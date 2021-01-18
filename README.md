@@ -18,4 +18,4 @@ In this project, we can control the home appliances over the internet using voic
 
 
 ## Video Link:-
-<img src="https://drive.google.com/file/d/1Qks9wjVNsisNoCVEpyBU9yzQSePuRJde/view?usp=drivesdk">
+<a href="https://drive.google.com/file/d/1Qks9wjVNsisNoCVEpyBU9yzQSePuRJde/view?usp=drivesdk"></a>
