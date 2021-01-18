@@ -11,9 +11,6 @@ In this project, we can control the home appliances over the internet using voic
 * Bread Board
 * Home Appliances (such as bulb)
 
-## Circuit Diagram:-
-
-
 ## Functioning:-
 When Voice Command is send to Google Assistant ,it will send that command to IFTTT and then IFTTT interpretate that command and send appropriate request to the Blynk App and in the end Blynk App sends the command to the NodeMCU which control the electrical appliances with the help of Realy Board.
 
